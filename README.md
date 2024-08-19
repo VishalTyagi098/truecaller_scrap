@@ -40,7 +40,7 @@
 ### 5. Customize the Script
 
 - **Installation ID**:
-  - Replace the placeholder InstallationId `'a1i0Y--ohnh2OF7VRIKww8gLfg3OBNIzyC26L-h5p5H_cyetVOEJnLSKC7O-lFum'` in the script with your actual InstallationId from Truecaller.
+  - Replace the placeholder InstallationId `your installation_id` (LINE NUMBER 8) in the script with your actual InstallationId from Truecaller.
   
 - **File Path**:
   - Ensure the `file_path` variable points to the correct location of your `phone_numbers.xlsx` file. If the script and Excel file are in the same directory, no changes are needed.
